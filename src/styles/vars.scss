@@ -1,3 +1,4 @@
+@import 'fonts.scss';
 
 //<ПЕРЕМЕННЫЕ>
 $minWidth: 320px;
@@ -10,9 +11,7 @@ $md4: 479.98;
 //</ПЕРЕМЕННЫЕ>
 
 // Fonts
-$fontFamily: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-sans-serif;
+$fontFamily: 'Inter', sans-serif;
 
 
 // Size
