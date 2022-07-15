@@ -1,5 +1,5 @@
 {
-  "name": "ra-4.1-forms-steps",
+  "name": "ra-4.2-forms-steps",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,5 +37,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://sergius92739.github.io/ra-4.1-forms-steps/"
+  "homepage": "https://sergius92739.github.io/ra-4.2-forms-steps/"
 }
